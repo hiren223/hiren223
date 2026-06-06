@@ -55,7 +55,7 @@ Web application developed using HTML, CSS, JavaScript, SQL, PHP etc.
 ## 📫 Contact
 
 - Email: hp906054@gmail.com
-- LinkedIn: [](https://www.linkedin.com/in/hiren-patel-440700259/)
+- LinkedIn: https://www.linkedin.com/in/hiren-patel-440700259/
 
 ---
 
