@@ -1,200 +1,108 @@
-<div align="center">
+<h1 align="center">🧾 Model Card: hiren-keraliya-v1</h1>
+<p align="center"><sub>a human, fine-tuned on curiosity and messy datasets</sub></p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=82AAFF&center=true&vCenter=true&width=600&lines=whoami;hiren_keraliya+%C2%B7+data+scientist;import+pandas+as+pd;model.fit(curiosity%2C+consistency);print(%22let's+build+something%22)" alt="Typing SVG" />
+<p align="center">
+  <img src="https://img.shields.io/badge/status-actively--training-1f8a4c?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/license-open--to--work-2f6fed?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/base-BCA%20Graduate-8a3fc9?style=for-the-badge" />
+</p>
 
-</div>
+---
 
-<br>
+### 📋 Model Details
 
-```python
-class DataScientist:
-    def __init__(self):
-        self.name        = "Hiren Keraliya"
-        self.location     = "Ahmedabad, India"
-        self.education    = "BCA, Silver Oak University"
-        self.role         = "Data Scientist"
-        self.stack        = ["Python", "Pandas", "scikit-learn", "XGBoost",
-                              "SQL", "Power BI", "PHP", "MySQL"]
-        self.focus        = "turning messy data into models that hold up"
-        self.currently    = "sharpening Deep Learning & advanced ML"
-        self.open_to      = ["Data Science roles", "Software Dev roles", "collabs"]
+| Field | Value |
+|---|---|
+| **Name** | Hiren Keraliya |
+| **Version** | Post-internship, certified |
+| **Type** | Data Scientist (with a web dev side-quest) |
+| **Base education** | BCA — Silver Oak University, Ahmedabad |
+| **Fine-tuned by** | Rubixe — 6-month Data Science Consultant Internship |
+| **Architecture** | Python → pandas → scikit-learn → decisions |
+| **Location** | Ahmedabad, India |
 
-    def say_hi(self):
-        print(f"{self.name} | let's build something with your data.")
+---
 
-# >>> DataScientist().say_hi()
-Hiren Keraliya | let's build something with your data.
+### 🎯 Intended Use
+
+**Primary use cases:**
+- Turning inconsistent, incomplete, real-world data into models that hold up outside the notebook
+- Explaining *why* a model failed, not just that it did
+- Full-stack builds when a project needs a front end wrapped around the analysis
+
+**Not optimized for:** perfectly clean, pre-labeled Kaggle datasets with no missing values — those are for warm-ups, not the main event.
+
+---
+
+### 🧪 Training Data
+
+```
+dataset:  6 months, Rubixe internship
+samples:  1 client engagement + 4 independent capstones
+domains:  telecom · finance · insurance · public health · epidemiology
+labels:   accuracy alone is not a metric you can trust
 ```
 
-<br>
+Additional pretraining on a 4-person team build: **Krushi Manch**, a multilingual agricultural platform (PHP/MySQL + HTML/CSS/JS) — 50+ crop profiles, disease guidance, and a rental marketplace, shipped from requirements to a working system.
 
-## `# about.md`
+---
 
-Not a "learning-to-code" profile — a **BCA graduate who's already shipped**: a 6-month Data Science internship at Rubixe (client + capstone projects), a NASSCOM Gold-certified assessment, and a full-stack agricultural platform built with a 4-person team. I like data that fights back — imbalanced classes, noisy time-series, misleading accuracy scores — because that's where the real lessons live.
+### 📊 Evaluation Results
 
-<br>
+| Task | Model | Metric | Score |
+|---|---|---|---|
+| Home Loan Default Prediction | XGBoost (tuned) | Accuracy / ROC-AUC | `91.98%` / `0.761` |
+| Vaccine Rate Forecasting | Random Forest | R² / MAE | `≈1.0` / `0.77` |
+| Customer Churn Prediction | Random Forest + SMOTE | Accuracy | `79%` |
+| Insurance Claim Prediction | Logistic Regression | Accuracy / ROC-AUC | `84.7%` / `~0.50` |
+| COVID-19 Case Forecasting | Ridge Regression | Best baseline | lowest RMSE |
 
-## `# skills.json`
+---
 
-<table>
-<tr>
-<td valign="top" width="50%">
+### ⚠️ Known Limitations & Honest Notes
 
-**languages_and_ml**
-<br>
-![Python](https://img.shields.io/badge/-Python-c792ea?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-c792ea?style=flat-square&logo=mysql&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-82aaff?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-82aaff?style=flat-square&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-a6e3a1?style=flat-square&logo=scikit-learn&logoColor=black)
-![XGBoost](https://img.shields.io/badge/-XGBoost-a6e3a1?style=flat-square)
+- On the **Insurance Claim** task, accuracy looked great — ROC-AUC exposed that it wasn't. Learned to never trust one metric alone.
+- On the **COVID-19 forecasting** task, the tuned model actually *underfit* (R² < 0) compared to the simple baseline. Kept it in the record instead of hiding it — that's the real lesson, not the polished win.
+- Still in active fine-tuning on **Deep Learning** and advanced ML — this model is not frozen.
 
-**visualization**
-<br>
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-f5a97f?style=flat-square)
-![Seaborn](https://img.shields.io/badge/-Seaborn-f5a97f?style=flat-square)
-![Power BI](https://img.shields.io/badge/-Power_BI-c792ea?style=flat-square&logo=powerbi&logoColor=white)
+---
 
-</td>
-<td valign="top" width="50%">
+### 🧰 Compatible Tools
 
-**web_dev**
-<br>
-![HTML5](https://img.shields.io/badge/-HTML5-82aaff?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-82aaff?style=flat-square&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-a6e3a1?style=flat-square&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-c792ea?style=flat-square&logo=mysql&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-a6e3a1?style=flat-square&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-a6e3a1?style=flat-square&logo=mongodb&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/Python-306998?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/XGBoost-0B6E4F?style=flat-square" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+</p>
 
-**workflow**
-<br>
-![Git](https://img.shields.io/badge/-Git-f5a97f?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS_Code-82aaff?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-f5a97f?style=flat-square&logo=jupyter&logoColor=white)
+---
 
-</td>
-</tr>
-</table>
+### 📈 Usage Stats
 
-<br>
+<p align="center">
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=hiren223&show_icons=true&theme=default&hide_border=true&title_color=2f6fed&icon_color=1f8a4c&text_color=333" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiren223&layout=compact&theme=default&hide_border=true&title_color=2f6fed&text_color=333" />
+</p>
 
-## `# experience.log`
+---
 
-```diff
-+ [Aug 2025 – Feb 2026]  Data Science Consultant Intern · Rubixe
-    → Customer Churn client project (telecom, SMOTE, imbalanced classes)
-    → 4 independent capstones: loan default · insurance claims ·
-      vaccine prediction · COVID-19 forecasting
+### 📮 Citation / Contact
 
-+ [Jun 2026]  Certified Data Scientist · NASSCOM FutureSkills Prime
-    → Gold score (95%), Govt. of India–aligned assessment
-    → Data Science Foundation · IABAC
+If you'd like to deploy this model on your team, or just talk data:
 
-+ [2022 – 2025]  BCA · Silver Oak University, Ahmedabad
-    → Thesis: Krushi Manch — multilingual agri-platform, 4-person team
-```
+<p>
+<a href="mailto:hirenkeraliya99@gmail.com"><img src="https://img.shields.io/badge/Email-hirenkeraliya99%40gmail.com-c53a5f?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/hiren-keraliya-440700259/"><img src="https://img.shields.io/badge/LinkedIn-Connect-2f6fed?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/hiren223"><img src="https://img.shields.io/badge/GitHub-Explore_Repos-1b2330?style=flat-square&logo=github&logoColor=white" /></a>
+</p>
 
-<br>
+---
 
-## `# projects/`
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-**🏦 Home Loan Default**
-<br>
-Logistic Regression → XGBoost, GridSearchCV-tuned
-<br>
-`91.98% accuracy` · `0.761 ROC-AUC`
-
-</td>
-<td width="33%" valign="top">
-
-**📞 Customer Churn**
-<br>
-Full pipeline w/ SMOTE for class imbalance
-<br>
-`79% accuracy` — imbalance still the real challenge
-
-</td>
-<td width="33%" valign="top">
-
-**🌾 Krushi Manch**
-<br>
-Multilingual agri-platform, PHP/MySQL, 4-person team
-<br>
-`50+ crop profiles` · `2 languages`
-
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-
-**🦠 COVID-19 Forecasting**
-<br>
-Ridge/Lasso vs tuned Random Forest — cumulative time-series
-<br>
-`R² < 0` on the tuned model, and that's the lesson
-
-</td>
-<td width="33%" valign="top">
-
-**💉 Vaccine Prediction**
-<br>
-Regression on incomplete public health data
-<br>
-`R² ≈ 1.0` · `MAE 0.77`
-
-</td>
-<td width="33%" valign="top">
-
-**🏥 Insurance Claims**
-<br>
-Where high accuracy hid weak class separation
-<br>
-`84.7% accuracy` · `~0.50 ROC-AUC`
-
-</td>
-</tr>
-</table>
-
-<br>
-
-## `# stats.py`
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=hiren223&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0e14&title_color=82aaff&icon_color=a6e3a1&text_color=cdd6e4" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiren223&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0e14&title_color=82aaff&text_color=cdd6e4" />
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hiren223&theme=tokyonight&hide_border=true&background=0a0e14&stroke=232b38&ring=82aaff&fire=f5a97f&currStreakLabel=a6e3a1" />
-
-</div>
-
-<br>
-
-## `# contact.sh`
-
-```bash
-$ whoami
-hiren_keraliya · data scientist
-
-$ cat contact_info.txt
-```
-[![Email](https://img.shields.io/badge/-hirenkeraliya99@gmail.com-141a24?style=flat-square&logo=gmail&logoColor=a6e3a1)](mailto:hirenkeraliya99@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-141a24?style=flat-square&logo=linkedin&logoColor=82aaff)](https://www.linkedin.com/in/hiren-keraliya-440700259/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-141a24?style=flat-square&logo=vercel&logoColor=c792ea)](#)
-
-```bash
-$ █
-```
-
-<br>
-
-<div align="center">
-<sub>if you made it this far — thanks for reading, not just skimming the badges ⭐</sub>
-</div>
+<p align="center"><sub>⚠️ This model occasionally overfits to good coffee and underperforms before 9 AM.</sub></p>
