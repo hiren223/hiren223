@@ -84,12 +84,28 @@ Additional pretraining on a 4-person team build: **Krushi Manch**, a multilingua
 
 ---
 
-### 📈 Usage Stats
+### 📈 Model Performance Summary
 
-<p align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=hiren223&show_icons=true&theme=default&hide_border=true&title_color=2f6fed&icon_color=1f8a4c&text_color=333" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiren223&layout=compact&theme=default&hide_border=true&title_color=2f6fed&text_color=333" />
-</p>
+<table align="center">
+<tr>
+<td align="center" width="140">
+<h3>91.98%</h3>
+<sub>best model accuracy<br>(Home Loan Default)</sub>
+</td>
+<td align="center" width="140">
+<h3>6</h3>
+<sub>end-to-end projects<br>shipped</sub>
+</td>
+<td align="center" width="140">
+<h3>5</h3>
+<sub>domains covered<br>(telecom → epidemiology)</sub>
+</td>
+<td align="center" width="140">
+<h3>95%</h3>
+<sub>NASSCOM Gold<br>certification score</sub>
+</td>
+</tr>
+</table>
 
 ---
 
