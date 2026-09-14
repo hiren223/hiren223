@@ -93,99 +93,97 @@ Decision
 
 ---
 
-# 🛠️ Tech Stack
+<h2 align="center">🛠️ Tech Stack</h2>
 
-## 🐍 Programming
+<table align="center">
+<tr>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=python" width="55"><br>
+<b>Python</b>
+</td>
 
-<div align="center">
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="55"><br>
+<b>Pandas</b>
+</td>
 
-<img src="https://skillicons.dev/icons?i=python,php,js,html,css" />
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="55"><br>
+<b>NumPy</b>
+</td>
 
-</div>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="55"><br>
+<b>Scikit-Learn</b>
+</td>
 
----
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=mysql" width="55"><br>
+<b>SQL</b>
+</td>
+</tr>
 
-## 📊 Data Science & Machine Learning
+<tr>
+<td align="center" width="120">
+<img src="https://cdn.simpleicons.org/jupyter/F37626" width="55" height="55"><br>
+<b>Jupyter</b>
+</td>
+  
+<td align="center" width="120">
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"
+     height="55"><br>
+<b>Power BI</b>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=vscode" width="55"><br>
+<b>VS Code</b>
+</td>
 
-<div align="center">
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=git" width="55"><br>
+<b>Git</b>
+</td>
 
-<img src="https://img.shields.io/badge/Python-161B22?style=for-the-badge&logo=python&logoColor=3776AB" />
-<img src="https://img.shields.io/badge/Pandas-161B22?style=for-the-badge&logo=pandas&logoColor=150458" />
-<img src="https://img.shields.io/badge/NumPy-161B22?style=for-the-badge&logo=numpy&logoColor=013243" />
-<img src="https://img.shields.io/badge/Scikit--Learn-161B22?style=for-the-badge&logo=scikit-learn&logoColor=F7931E" />
-<img src="https://img.shields.io/badge/XGBoost-161B22?style=for-the-badge&logoColor=2EA043" />
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=github" width="55"><br>
+<b>GitHub</b>
+</td>
+</tr>
 
-</div>
+<tr>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=html" width="55"><br>
+<b>HTML5</b>
+</td>
 
-```text
-Machine Learning
-├── Classification
-├── Regression
-├── Random Forest
-├── Decision Trees
-├── XGBoost
-├── Feature Engineering
-├── Model Evaluation
-└── Statistical Analysis
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=css" width="55"><br>
+<b>CSS3</b>
+</td>
 
-Data Analysis
-├── Pandas
-├── NumPy
-├── EDA
-├── Data Cleaning
-└── Data Quality Assessment
-```
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=javascript" width="55"><br>
+<b>JavaScript</b>
+</td>
 
----
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=php" width="55"><br>
+<b>PHP</b>
+</td>
 
-## 🗄️ SQL & Databases
+<!-- Matplotlib -->
+<td align="center" width="120">
+<img src="https://raw.githubusercontent.com/matplotlib/matplotlib/main/doc/_static/logo2.svg" width="55" height="55"><br>
+<b>Matplotlib</b>
+</td>
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=mysql" />
-
-</div>
-
-```text
-SQL
-├── JOINs
-├── Subqueries
-├── Window Functions
-├── Data Cleaning
-└── Relational Database Design
-```
-
----
-
-## 📈 Visualization
-
-```text
-Matplotlib
-Seaborn
-Power BI
-Tableau
-Dashboarding
-Data Storytelling
-```
-
----
-
-## 🔧 Development Tools
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,mysql" />
-
-</div>
-
-```text
-Jupyter Notebook
-Google Colab
-VS Code
-Git
-GitHub
-MySQL
-```
+</tr>
+<tr><td align="center" width="120">
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square"
+     height="55"><br>
+<b>Seaborn</b>
+</td></tr>
+</table>
 
 ---
 
