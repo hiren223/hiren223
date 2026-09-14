@@ -1,281 +1,120 @@
-<h1 align="center">
-  🧠 Hiren Keraliya — Data Scientist
-</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=2F81F7&center=true&vCenter=true&width=700&lines=Data+Scientist+%7C+ML+Engineer+%7C+Data+Analyst;Turning+messy+data+into+useful+decisions;Python+%7C+SQL+%7C+Machine+Learning;Building+real-world+AI+solutions;Always+learning.+Always+shipping." alt="Typing SVG" />
-</p>
+# 🧠 Hiren Keraliya
 
-<p align="center">
-  <a href="https://github.com/hiren223">
-    <img src="https://img.shields.io/badge/GitHub-hiren223-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/hiren-keraliya">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:hirenkeraliya99@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+### `Data Scientist` • `Machine Learning Engineer` • `Data Analyst`
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hiren223&style=for-the-badge&color=2F81F7&label=PROFILE+VIEWS" />
-  <img src="https://img.shields.io/github/followers/hiren223?style=for-the-badge&label=FOLLOWERS" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2800&pause=900&color=58A6FF&background=0D111700&center=true&vCenter=true&width=800&lines=Turning+Messy+Data+Into+Useful+Decisions;Building+Real-World+Machine+Learning+Solutions;Python+%7C+SQL+%7C+Machine+Learning;Exploring+AI%2C+Analytics+%26+Deep+Learning;Always+Learning.+Always+Building." alt="Typing animation" />
+
+<br>
+
+<a href="https://github.com/hiren223">
+<img src="https://img.shields.io/badge/GitHub-hiren223-161B22?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/hiren-keraliya">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-161B22?style=for-the-badge&logo=linkedin&logoColor=58A6FF" />
+</a>
+
+<a href="mailto:hirenkeraliya99@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=hiren223&style=for-the-badge&color=161B22&label=PROFILE+VIEWS" />
+
+</div>
 
 ---
 
-## ⚡ `hiren-keraliya-v1`
+# 🧠 `hiren-keraliya-v1`
 
 > **A human, fine-tuned on curiosity, real-world datasets, and questionable amounts of debugging.**
 
 ```text
-Model:        Hiren Keraliya
-Version:      v1.0 — Actively Improving
-Architecture: Python → Data → ML → Insights → Decisions
-Primary Task: Solve real-world problems with data
-Current Mode: Open to Full-Time Opportunities
-Location:     Ahmedabad, India
+┌──────────────────────────────────────────────────────────┐
+│                    MODEL INFORMATION                     │
+├──────────────────────────────────────────────────────────┤
+│ Name          : Hiren Keraliya                           │
+│ Version       : v1.0 — Actively Improving                │
+│ Role          : Data Scientist / ML Engineer / Analyst   │
+│ Education     : BCA — Silver Oak University             │
+│ Experience    : 6-Month Data Scientist Internship       │
+│ Location      : Ahmedabad, India                         │
+│ Status        : Open to Full-Time Opportunities         │
+└──────────────────────────────────────────────────────────┘
 ```
-
-<p align="center">
-  <img src="https://img.shields.io/badge/STATUS-ACTIVELY%20LEARNING-2ea44f?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ROLE-DATA%20SCIENTIST-0969DA?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OPEN%20TO-FULL--TIME%20ROLES-8250DF?style=for-the-badge" />
-</p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-I'm a **Data Scientist / Machine Learning Engineer / Data Analyst** focused on turning raw data into models, insights, and practical business decisions.
+I'm a **Data Scientist / Machine Learning Engineer / Data Analyst** focused on turning raw data into useful insights, predictive models, and practical business solutions.
 
-I have hands-on experience building **end-to-end machine learning pipelines**, performing EDA and feature engineering, evaluating multiple algorithms, and communicating technical findings to non-technical stakeholders.
-
-During my **6-month Data Scientist internship at Rubixe**, I worked with **50,000+ records**, participated in **15+ client meetings**, identified **8+ critical data-quality issues**, and contributed to a **15% improvement in predictive analytics accuracy**.
-
-### 🎯 What I Actually Do
+During my **6-month Data Scientist internship at Rubixe**, I worked with **50,000+ records**, contributed to a **15% improvement in predictive analytics accuracy**, reduced preprocessing time by **40%**, identified **8+ critical data-quality issues**, participated in **15+ client meetings**, and created **10+ executive-ready presentations**.
 
 ```text
-Raw Data
-   ↓
-Cleaning & Validation
-   ↓
+Data
+ ↓
+Cleaning
+ ↓
 EDA
-   ↓
+ ↓
 Feature Engineering
-   ↓
-Model Building
-   ↓
-Model Evaluation
-   ↓
+ ↓
+Machine Learning
+ ↓
+Evaluation
+ ↓
 Business Insights
-   ↓
-Better Decisions
-```
-
-I don't just ask:
-
-> "What's the accuracy?"
-
-I ask:
-
-> **"Does this model actually solve the problem?"**
-
----
-
-## 🧪 My Training Data
-
-```yaml
-education:
-  degree: "Bachelor of Computer Application (BCA)"
-  university: "Silver Oak University, Ahmedabad"
-  period: "2022 - 2025"
-  cgpa: "7.31 / 10"
-
-professional_experience:
-  company: "Rubixe — AI Solutions Company"
-  role: "Data Scientist Intern"
-  duration: "6 months"
-  period: "Aug 2025 - Feb 2026"
-
-experience:
-  records_processed: "50,000+"
-  client_meetings: "15+"
-  data_quality_issues_identified: "8+"
-  preprocessing_time_reduction: "40%"
-  predictive_accuracy_improvement: "15%"
+ ↓
+Decision
 ```
 
 ---
 
-# 📊 Impact Dashboard
+# ⚡ Impact Dashboard
 
-<p align="center">
+<div align="center">
 
-<table>
-<tr>
+|      📊 50K+      |        📈 15%        |          ⚡ 40%          |      🤝 15+     |
+| :---------------: | :------------------: | :---------------------: | :-------------: |
+| Records Processed | Accuracy Improvement | Preprocessing Reduction | Client Meetings |
 
-<td align="center" width="180">
-<h2>50K+</h2>
-<sub>Records Processed</sub>
-</td>
+|          🔎 8+         |   🏆 95/100   | 🎯 Top 5% |  🎓 7.31 |
+| :--------------------: | :-----------: | :-------: | :------: |
+| Data Issues Identified | NASSCOM Score | Performer | BCA CGPA |
 
-<td align="center" width="180">
-<h2>15%</h2>
-<sub>Accuracy Improvement</sub>
-</td>
-
-<td align="center" width="180">
-<h2>40%</h2>
-<sub>Preprocessing Time Reduced</sub>
-</td>
-
-<td align="center" width="180">
-<h2>15+</h2>
-<sub>Client Meetings</sub>
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-<h2>8+</h2>
-<sub>Data Quality Issues</sub>
-</td>
-
-<td align="center">
-<h2>95/100</h2>
-<sub>NASSCOM Score</sub>
-</td>
-
-<td align="center">
-<h2>Top 5%</h2>
-<sub>Certified Performer</sub>
-</td>
-
-<td align="center">
-<h2>7.31</h2>
-<sub>BCA CGPA</sub>
-</td>
-
-</tr>
-</table>
-
-</p>
+</div>
 
 ---
 
-# 🚀 Featured Projects
+# 🛠️ Tech Stack
 
-## 📉 Customer Churn Prediction
+## 🐍 Programming
 
-**Machine Learning | Python | Scikit-learn | Pandas | NumPy | Matplotlib | Seaborn**
+<div align="center">
 
-> Predicting which customers are likely to leave before they actually leave.
-
-### 🔍 What I Built
-
-* End-to-end customer churn prediction pipeline
-* EDA on **50,000+ customer records**
-* Identified **8 key churn indicators**
-* Detected **5 behavioral patterns**
-* Handled **3.5% missing values**
-* Investigated **2 outlier clusters**
-* Compared **6 classification algorithms**
-* Selected the best model using **F1-score optimization**
-* Built visualizations for non-technical stakeholders
-
-### 🧠 Models Evaluated
-
-```text
-Logistic Regression
-       ↓
-Decision Tree
-       ↓
-Random Forest
-       ↓
-XGBoost
-       ↓
-SVM
-       ↓
-KNN
-       ↓
-Best Model → 0.79 Accuracy
-```
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Accuracy-79%25-2ea44f?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Records-50K%2B-0969DA?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Models%20Compared-6-8250DF?style=for-the-badge" />
-</p>
-
----
-
-# 🌾 Krushi-Manch
-
-### Digital Agriculture Platform
-
-**HTML5 | CSS3 | JavaScript | PHP | MySQL | SQL**
-
-A full-stack agricultural platform designed to bring multiple farming workflows into one system.
-
-### 🚜 Platform Modules
-
-```text
-🌱 Digital Marketplace
-       │
-       ├── Sell Produce
-       ├── 2,000+ Listings
-       │
-       ▼
-🚜 Equipment Rental
-       │
-       ├── Inventory Management
-       ├── 150+ Concurrent Transactions
-       │
-       ▼
-💰 Expense Tracking
-       │
-       ├── EMI Calculator
-       └── Income Planning
-       │
-       ▼
-💬 Buyer Communication
-```
-
-### 📈 Project Impact
-
-* Served **500+ beta-test farmers**
-* Supported **2,000+ marketplace listings**
-* Designed a relational database with **12+ optimized SQL tables**
-* Supported **500+ active users**
-* Supported **150+ concurrent rental transactions**
-* Achieved **80% user satisfaction**
-* Improved income-planning visibility by **80%**
-
----
-
-# 🛠️ Technical Arsenal
-
-### 🐍 Programming
-
-<p>
 <img src="https://skillicons.dev/icons?i=python,php,js,html,css" />
-</p>
 
-### 📊 Data Science & Machine Learning
+</div>
+
+---
+
+## 📊 Data Science & Machine Learning
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Python-161B22?style=for-the-badge&logo=python&logoColor=3776AB" />
+<img src="https://img.shields.io/badge/Pandas-161B22?style=for-the-badge&logo=pandas&logoColor=150458" />
+<img src="https://img.shields.io/badge/NumPy-161B22?style=for-the-badge&logo=numpy&logoColor=013243" />
+<img src="https://img.shields.io/badge/Scikit--Learn-161B22?style=for-the-badge&logo=scikit-learn&logoColor=F7931E" />
+<img src="https://img.shields.io/badge/XGBoost-161B22?style=for-the-badge&logoColor=2EA043" />
+
+</div>
 
 ```text
-Python
-├── Pandas
-├── NumPy
-├── Scikit-learn
-├── Matplotlib
-├── Seaborn
-└── Statistical Analysis
-
 Machine Learning
 ├── Classification
 ├── Regression
@@ -283,10 +122,26 @@ Machine Learning
 ├── Decision Trees
 ├── XGBoost
 ├── Feature Engineering
-└── Model Evaluation
+├── Model Evaluation
+└── Statistical Analysis
+
+Data Analysis
+├── Pandas
+├── NumPy
+├── EDA
+├── Data Cleaning
+└── Data Quality Assessment
 ```
 
-### 🗄️ SQL & Data
+---
+
+## 🗄️ SQL & Databases
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql" />
+
+</div>
 
 ```text
 SQL
@@ -297,53 +152,200 @@ SQL
 └── Relational Database Design
 ```
 
-### 🔧 Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,mysql" />
-</p>
-
-**Also:** Jupyter Notebook • Google Colab • Power BI • Tableau
-
 ---
 
-# 🧠 Machine Learning Workflow
+## 📈 Visualization
 
-```mermaid
-flowchart LR
-    A[📥 Raw Data] --> B[🧹 Data Cleaning]
-    B --> C[🔎 EDA]
-    C --> D[⚙️ Feature Engineering]
-    D --> E[🤖 Model Training]
-    E --> F[📊 Evaluation]
-    F --> G{Good Enough?}
-    G -->|No| D
-    G -->|Yes| H[💡 Business Insights]
-    H --> I[🚀 Solution]
+```text
+Matplotlib
+Seaborn
+Power BI
+Tableau
+Dashboarding
+Data Storytelling
 ```
 
 ---
 
-# 📜 Certifications
+## 🔧 Development Tools
 
-| Certification                | Organization                 | Result              |
-| ---------------------------- | ---------------------------- | ------------------- |
-| 🏆 Certified Data Scientist  | NASSCOM / FutureSkills Prime | **95/100 — Top 5%** |
-| 📘 Data Science Foundation   | IABAC                        | Certified           |
-| 📊 Data Analytics Simulation | Deloitte Australia / Forage  | Tableau Dashboard   |
+<div align="center">
 
-The NASSCOM certification was earned in June 2026 with a **95/100 score**, placing me among the **Top 5% performers**.
+<img src="https://skillicons.dev/icons?i=git,github,vscode,mysql" />
+
+</div>
+
+```text
+Jupyter Notebook
+Google Colab
+VS Code
+Git
+GitHub
+MySQL
+```
 
 ---
 
-# 🧩 Problem-Solving Philosophy
+# 🚀 Featured Projects
+
+## 📉 Customer Churn Prediction
+
+### `Machine Learning • Business Case`
+
+**Tech:** `Python` `Pandas` `NumPy` `Scikit-learn` `Matplotlib` `Seaborn`
+
+### 🎯 Objective
+
+Build an end-to-end machine learning pipeline to identify customers who are likely to churn.
+
+### 🔬 Pipeline
+
+```text
+                    CUSTOMER DATA
+                          │
+                          ▼
+                  ┌──────────────┐
+                  │ Data Cleaning│
+                  └──────┬───────┘
+                         ▼
+                  ┌──────────────┐
+                  │     EDA      │
+                  └──────┬───────┘
+                         ▼
+                  ┌──────────────┐
+                  │   Feature    │
+                  │ Engineering  │
+                  └──────┬───────┘
+                         ▼
+              ┌──────────────────────┐
+              │ 6 ML Algorithms      │
+              ├──────────────────────┤
+              │ Logistic Regression  │
+              │ Decision Tree        │
+              │ Random Forest        │
+              │ XGBoost              │
+              │ SVM                  │
+              │ KNN                  │
+              └──────────┬───────────┘
+                         ▼
+                  ┌──────────────┐
+                  │ Model        │
+                  │ Evaluation   │
+                  └──────┬───────┘
+                         ▼
+                    79% ACCURACY
+```
+
+### 📊 Results
+
+```text
+50,000+        Customer Records
+8              Key Churn Indicators
+5              Behavioral Patterns
+3.5%           Missing Values Handled
+2              Outlier Clusters
+6              Algorithms Evaluated
+79%            Test Accuracy
+```
+
+---
+
+# 🌾 Krushi-Manch
+
+### `Digital Agriculture Platform`
+
+**Tech:** `HTML5` `CSS3` `JavaScript` `PHP` `MySQL` `SQL`
+
+A full-stack agricultural platform designed to bring multiple farming workflows into a unified system.
+
+### 🚜 Core Modules
+
+```text
+┌─────────────────────────────────────────────┐
+│                 KRUSHI-MANCH                │
+├─────────────────────────────────────────────┤
+│                                             │
+│  🌱 Produce Marketplace                     │
+│  🚜 Equipment Rental                        │
+│  💰 Expense Tracking                        │
+│  🧮 EMI Calculator                          │
+│  📊 Income Planning                         │
+│  💬 Buyer Communication                     │
+│  📦 Inventory Management                    │
+│                                             │
+└─────────────────────────────────────────────┘
+```
+
+### 📈 Project Scale
+
+<div align="center">
+
+| Metric                            |     Result |
+| :-------------------------------- | ---------: |
+| 👨‍🌾 Beta-Test Farmers           |   **500+** |
+| 📦 Marketplace Listings           | **2,000+** |
+| 🗄️ Optimized SQL Tables          |    **12+** |
+| 👥 Active Users                   |   **500+** |
+| 🚜 Concurrent Rental Transactions |   **150+** |
+| 😊 User Satisfaction              |    **80%** |
+| 📊 Income Planning Visibility     |   **+80%** |
+
+</div>
+
+### 🏗️ Architecture
+
+```text
+             ┌──────────────────┐
+             │    FRONTEND      │
+             │ HTML / CSS / JS  │
+             └────────┬─────────┘
+                      │
+                      ▼
+             ┌──────────────────┐
+             │      PHP         │
+             │  Backend Logic   │
+             └────────┬─────────┘
+                      │
+                      ▼
+             ┌──────────────────┐
+             │      MySQL       │
+             │    Database      │
+             └──────────────────┘
+```
+
+---
+
+# 🧪 Data Science Workflow
+
+```mermaid
+flowchart LR
+
+A[📥 Raw Data] --> B[🧹 Cleaning]
+B --> C[🔎 EDA]
+C --> D[⚙️ Feature Engineering]
+D --> E[🤖 Model Training]
+E --> F[📊 Evaluation]
+F --> G{Good Enough?}
+G -->|No| D
+G -->|Yes| H[💡 Business Insights]
+H --> I[🚀 Solution]
+```
+
+---
+
+# 🧠 Machine Learning Philosophy
+
+> **Accuracy is not the whole story.**
 
 ```python
-def solve_problem(data):
+def build_model(data):
 
     data = understand(data)
+
     data = clean(data)
+
     insights = explore(data)
+
     features = engineer(insights)
 
     models = train_multiple_models(features)
@@ -361,104 +363,193 @@ def solve_problem(data):
     return translate_to_business_value(best_model)
 ```
 
-### My rule:
-
-**A high accuracy score doesn't automatically mean a good model.**
-
-I learned to evaluate models using the metric that actually fits the problem rather than blindly optimizing accuracy.
-
----
-
-# 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hiren223&show_icons=true&hide_border=true&rank_icon=github" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiren223&layout=compact&hide_border=true" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=hiren223&hide_border=true" />
-</p>
-
----
-
-# 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/hiren223/hiren223/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
-</p>
-
----
-
-# 🎯 Currently Working On
+### What I care about
 
 ```text
-[████████████████████░░] Machine Learning       90%
-[█████████████████░░░░░] Data Analytics         85%
-[███████████████░░░░░░░] SQL                    80%
-[██████████████░░░░░░░░] Deep Learning          70%
-[████████████░░░░░░░░░░] Advanced ML            65%
-[███████████░░░░░░░░░░░] Data Engineering       55%
+✓ Data Quality
+✓ Generalization
+✓ Precision
+✓ Recall
+✓ F1-Score
+✓ ROC-AUC
+✓ Business Context
+✓ Actionable Insights
 ```
-
-### 🔬 Current Learning Direction
-
-* Advanced Machine Learning
-* Deep Learning
-* Model optimization
-* Production-oriented ML workflows
-* Better data storytelling
-* Building practical AI applications
 
 ---
 
-# 💼 Open to Opportunities
+# 📜 Certifications
 
-I'm currently looking for **entry-level opportunities** in:
+<div align="center">
+
+| Certification                | Organization                 |     Result    |
+| :--------------------------- | :--------------------------- | :-----------: |
+| 🏆 Certified Data Scientist  | NASSCOM / FutureSkills Prime |   **95/100**  |
+| 🥇 Performance               | NASSCOM / FutureSkills Prime |   **Top 5%**  |
+| 📘 Data Science Foundation   | IABAC                        | **Certified** |
+| 📊 Data Analytics Simulation | Deloitte Australia / Forage  | **Completed** |
+
+</div>
+
+---
+
+# 📈 GitHub Analytics
+
+<div align="center">
+
+<img
+src="https://github-readme-stats.vercel.app/api?username=hiren223&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&ring_color=58A6FF"
+height="180"
+/>
+
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiren223&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"
+height="180"
+/>
+
+</div>
+
+---
+
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img
+src="https://streak-stats.demolab.com?user=hiren223&hide_border=true&background=0D1117&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF"
+alt="GitHub Contribution Streak"
+/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/hiren223/hiren223/output/github-contribution-grid-snake-dark.svg"
+  />
+
+<source
+ media="(prefers-color-scheme: light)"
+ srcset="https://raw.githubusercontent.com/hiren223/hiren223/output/github-contribution-grid-snake.svg"
+/>
+
+<img
+ src="https://raw.githubusercontent.com/hiren223/hiren223/output/github-contribution-grid-snake-dark.svg"
+ alt="GitHub Contribution Snake Animation"
+/> </picture>
+
+</div>
+
+<p align="center">
+  <sub>🐍 Eating contributions one commit at a time.</sub>
+</p>
+
+---
+
+# 📊 GitHub Activity
+
+<div align="center">
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=hiren223&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true"
+alt="GitHub Activity Graph"
+/>
+
+</div>
+
+---
+
+# 🎯 Current Learning
 
 ```text
-🎯 Data Scientist
-🤖 Machine Learning Engineer
-📊 Data Analyst
-🧠 AI / ML Roles
+Machine Learning       ██████████████████░░ 90%
+Data Analytics         █████████████████░░░ 85%
+SQL                    ████████████████░░░░ 80%
+Deep Learning          ██████████████░░░░░░ 70%
+Advanced ML            █████████████░░░░░░░ 65%
+Data Engineering       ███████████░░░░░░░░░ 55%
 ```
 
-I'm particularly interested in teams where I can work with **real-world datasets, predictive modeling, business analytics, and AI-driven products**.
+### 🔬 Current Focus
+
+```text
+→ Advanced Machine Learning
+→ Deep Learning
+→ Model Optimization
+→ Production ML Workflows
+→ Data Storytelling
+→ Practical AI Applications
+```
+
+---
+
+# 💼 Open to Work
+
+<div align="center">
+
+### 🎯 Looking for entry-level opportunities
+
+```text
+Data Scientist
+Machine Learning Engineer
+Data Analyst
+AI / ML Roles
+```
+
+### Interested in
+
+```text
+Real-World Data
+Predictive Analytics
+Machine Learning
+AI Products
+Business Intelligence
+Data-Driven Decisions
+```
+
+</div>
 
 ---
 
 # 📬 Let's Connect
 
-<p align="center">
+<div align="center">
 
 <a href="mailto:hirenkeraliya99@gmail.com">
-<img src="https://img.shields.io/badge/Email-hirenkeraliya99%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335" />
 </a>
 
 <a href="https://www.linkedin.com/in/hiren-keraliya">
-<img src="https://img.shields.io/badge/LinkedIn-Hiren%20Keraliya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Hiren%20Keraliya-161B22?style=for-the-badge&logo=linkedin&logoColor=58A6FF" />
 </a>
 
 <a href="https://github.com/hiren223">
-<img src="https://img.shields.io/badge/GitHub-hiren223-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-hiren223-161B22?style=for-the-badge&logo=github&logoColor=FFFFFF" />
 </a>
 
-</p>
+</div>
 
 ---
 
-<p align="center">
+<div align="center">
 
-### ☕ Debugging status
+<img
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=58A6FF&background=0D111700&center=true&vCenter=true&width=700&lines=Cleaning+data...;Training+models...;Checking+metrics...;Finding+patterns...;Building+solutions...;Deploying+insights...;Repeat."
+alt="Developer animation"
+/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3500&pause=1000&center=true&vCenter=true&width=600&lines=Cleaning+data...;Training+models...;Checking+metrics...;Questioning+the+model...;Deploying+insights...;Repeat." alt="Debugging animation"/>
+<br>
 
-</p>
+<sub>☕ Occasionally overfits to good coffee and underperforms before 9 AM.</sub>
 
-<p align="center">
-  <sub>⚠️ Model occasionally overfits to good coffee and underperforms before 9 AM.</sub>
-</p>
+<br><br>
 
-<p align="center">
-  <sub>© 2026 Hiren Keraliya • Built with Python, curiosity & too many notebooks.</sub>
-</p>
+<sub>© 2026 Hiren Keraliya • Python • Data • ML • Curiosity</sub>
+
+</div>
