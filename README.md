@@ -14,10 +14,6 @@
   <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-161B22?style=for-the-badge&logo=googlechrome&logoColor=58A6FF" />
 </a>
 
-<a href="https://github.com/hiren223">
-  <img src="https://img.shields.io/badge/GitHub-hiren223-161B22?style=for-the-badge&logo=github&logoColor=FFFFFF" />
-</a>
-
 <a href="https://www.linkedin.com/in/hiren-keraliya">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-161B22?style=for-the-badge&logo=linkedin&logoColor=58A6FF" />
 </a>
