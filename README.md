@@ -8,22 +8,25 @@
 
 <br>
 
+<div align="center">
+
+<a href="https://personal-portfolio--hirenpatel37.replit.app">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-161B22?style=for-the-badge&logo=googlechrome&logoColor=58A6FF" />
+</a>
+
 <a href="https://github.com/hiren223">
-<img src="https://img.shields.io/badge/GitHub-hiren223-161B22?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-hiren223-161B22?style=for-the-badge&logo=github&logoColor=FFFFFF" />
 </a>
 
 <a href="https://www.linkedin.com/in/hiren-keraliya">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-161B22?style=for-the-badge&logo=linkedin&logoColor=58A6FF" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-161B22?style=for-the-badge&logo=linkedin&logoColor=58A6FF" />
 </a>
 
 <a href="mailto:hirenkeraliya99@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+  <img src="https://img.shields.io/badge/Email-Contact-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335" />
 </a>
 
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=hiren223&style=for-the-badge&color=161B22&label=PROFILE+VIEWS" />
-
+ </div>
 </div>
 
 ---
@@ -78,9 +81,9 @@ Decision
 
 <div align="center">
 
-|      📊 50K+      |        📈 15%        |          ⚡ 40%          |      🤝 15+     |
-| :---------------: | :------------------: | :---------------------: | :-------------: |
-| Records Processed | Accuracy Improvement | Preprocessing Reduction | Client Meetings |
+|      📊 50K+      |        📈 15%        |          ⚡ 40%        |   
+| :---------------: | :------------------: | :---------------------: | 
+| Records Processed | Accuracy Improvement | Preprocessing Reduction | 
 
 |          🔎 8+         |   🏆 95/100   | 🎯 Top 5% |  🎓 7.31 |
 | :--------------------: | :-----------: | :-------: | :------: |
@@ -393,24 +396,6 @@ def build_model(data):
 
 ---
 
-# 📈 GitHub Analytics
-
-<div align="center">
-
-<img
-src="https://github-readme-stats.vercel.app/api?username=hiren223&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&ring_color=58A6FF"
-height="180"
-/>
-
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiren223&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"
-height="180"
-/>
-
-</div>
-
----
-
 # 🔥 Contribution Streak
 
 <div align="center">
@@ -449,19 +434,6 @@ alt="GitHub Contribution Streak"
 <p align="center">
   <sub>🐍 Eating contributions one commit at a time.</sub>
 </p>
-
----
-
-# 📊 GitHub Activity
-
-<div align="center">
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=hiren223&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true"
-alt="GitHub Activity Graph"
-/>
-
-</div>
 
 ---
 
