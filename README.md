@@ -273,21 +273,6 @@ A full-stack agricultural platform designed to bring multiple farming workflows 
 └─────────────────────────────────────────────┘
 ```
 
-### 📈 Project Scale
-
-<div align="center">
-
-| Metric                            |     Result |
-| :-------------------------------- | ---------: |
-| 👨‍🌾 Beta-Test Farmers           |   **500+** |
-| 📦 Marketplace Listings           | **2,000+** |
-| 🗄️ Optimized SQL Tables          |    **12+** |
-| 👥 Active Users                   |   **500+** |
-| 🚜 Concurrent Rental Transactions |   **150+** |
-| 😊 User Satisfaction              |    **80%** |
-| 📊 Income Planning Visibility     |   **+80%** |
-
-</div>
 
 ### 🏗️ Architecture
 
