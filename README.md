@@ -10,7 +10,7 @@
 
 <div align="center">
 
-<a href="[hiren223.github.io](https://hiren223.github.io/)">
+<a href="https://hiren223.github.io/">
   <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-161B22?style=for-the-badge&logo=googlechrome&logoColor=58A6FF" />
 </a>
 
